@@ -1,3 +1,4 @@
+/*
 package server;
 
 import java.sql.Connection;
@@ -5,6 +6,8 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class DatabaseServer {
+
+    public static Connection conexao = null;
 
     public DatabaseServer() {
 
@@ -17,7 +20,7 @@ public class DatabaseServer {
         }
 
         try {
-            Connection conexao = DriverManager.getConnection("jdbc:mysql://localhost:3306/chat?serverTimezone=UTC&amp&&useSSL=false",
+            conexao = DriverManager.getConnection("jdbc:mysql://localhost:3306/chat?serverTimezone=UTC&amp&&useSSL=false",
                     "root", "root");
 
             if (conexao != null) {
@@ -35,3 +38,4 @@ public class DatabaseServer {
         new DatabaseServer();
     }
 }
+*/
