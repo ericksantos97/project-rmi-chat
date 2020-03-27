@@ -21,7 +21,7 @@ public class Teste {
 
         try {
 
-            while (msgp != "0") {
+            while (!msgp.equals("0")) {
                 msgp = JOptionPane.showInputDialog("Chat - " + nome + " entre com a mensagem. (Entre com 0 para sair)");
 
                 IChatAula objChat = (IChatAula) Naming.lookup("rmi://localhost:8282/chat");
