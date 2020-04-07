@@ -1,0 +1,28 @@
+Usuario: ErickMensagem: Ola
+Usuario: BeatrizMensagem: Olá tudo bem
+Usuario: BeatrizMensagem: ?
+Usuario: BeatrizMensagem: null
+Usuario: BeatrizMensagem: null
+Usuario: BeatrizMensagem: null
+Usuario: BeatrizMensagem: null
+Usuario: BeatrizMensagem: null
+Usuario: BeatrizMensagem: null
+Usuario: ErickMensagem: null
+Usuario: ErickMensagem: null
+Usuario: ErickMensagem: null
+Usuario: ErickMensagem: null
+Usuario: ErickMensagem: null
+Usuario: ErickMensagem: null
+Usuario: ErickMensagem: null
+Usuario: ErickMensagem: null
+Usuario: ErickMensagem: null
+Usuario: AnaMensagem: Ola pessoal
+Usuario: TesteMensagem: Ola testando
+Usuario: TesteMensagem: null
+Usuario: TesteMensagem: null
+Usuario: GiuliaMensagem: vou sair
+Usuario: GiuliaMensagem: null
+Usuario: GiuliaMensagem: null
+Usuario: Novo testeMensagem: Ola
+Usuario: JoseMensagem: Testando relatorio
+Usuario: JoseeMensagem: Testando de novo o relatorio

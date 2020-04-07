@@ -6,7 +6,7 @@
       <change beforePath="$PROJECT_DIR$/../Aula3ClienteTeste/src/main/java/teste/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula3ClienteTeste/src/main/java/teste/Teste.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Aula3ClienteTeste/target/classes/teste/Teste.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula3ClienteTeste/target/classes/teste/Teste.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Aula3Server/src/main/java/server/ChatServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula3Server/src/main/java/server/ChatServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aula3Server/src/main/java/server/DatabaseServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula3Server/src/main/java/server/DatabaseServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula3Server/src/main/java/server/DatabaseServer.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Aula3Server/target/classes/server/ChatServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula3Server/target/classes/server/ChatServer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -27,7 +27,23 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://localhost:3306/chat?serverTimezone=UTC&amp;amp&amp;&amp;useSSL=false" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://localhost:3306/chat?serverTimezone=UTC&amp;amp&amp;&amp;useSSL=false" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://localhost:3306/chat?serverTimezone=UTC&amp;amp&amp;&amp;useSSL=false" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="chat: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
     <select />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -55,14 +71,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Aula3Server" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Spring/example" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -147,7 +163,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585329110773</updated>
-      <workItem from="1585329113891" duration="14968000" />
+      <workItem from="1585329113891" duration="15292000" />
+      <workItem from="1586261185867" duration="8363000" />
     </task>
     <servers />
   </component>
@@ -159,21 +176,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../Aula3ClienteTeste/src/main/java/teste/Teste.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
